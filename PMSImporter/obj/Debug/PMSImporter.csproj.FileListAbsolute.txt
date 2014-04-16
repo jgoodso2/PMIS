@@ -1,0 +1,47 @@
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll.config
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\bin\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\obj\Debug\PMSImporter.dll
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\obj\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.dll
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.xml
+C:\Users\Administrator\Documents\GitHub\PMSImport\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Debug\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Debug\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Debug\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\obj\Debug\PMSImporter.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\obj\Debug\PMSImporter.pdb
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll.config
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\PMSImporter.pdb
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.dll
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.pdb
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.xml
+C:\Users\IXI8265\Desktop\Sandbox\0311\PMSImport\PMSImporter\obj\Debug\PMSImporter.csprojResolveAssemblyReference.cache
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll.config
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\PMSImporter.pdb
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.dll
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.pdb
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.xml
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\obj\Debug\PMSImporter.dll
+C:\Users\jgoodson\Downloads\PMSImport\PMSImporter\obj\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\PMSImporter.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\Microsoft.Office.Project.Server.Library.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\bin\Debug\ProjectServerServices.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\obj\Debug\PMSImporter.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMSImporter\obj\Debug\PMSImporter.pdb

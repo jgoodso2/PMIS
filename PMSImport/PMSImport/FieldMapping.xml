@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mapping>
+  <Project>
+    <Fields>
+
+      <Field Source="Project Name" Target="PROJ_NAME"/>
+      <Field Source="Enterprise Project Type Guid" Target="ENTERPRISE_PROJECT_TYPE_UID"/>
+      <Field Source="Enterprise Project Type" Target="ENTERPRISE_PROJECT_TYPE_NAME"/>
+      <Field Source="Owner" Target="ProjectOwnerID" IsResourceColumn="true" MapStringToGuid="true"/>
+      <!--<Field Source="Project Type" Target="PROJ_TYPE"/> -->
+      <Field Source="Project Category" Target="PROJ_PROP_CATEGORY"/>
+
+
+    </Fields>
+
+
+    <CustomFields>
+      <Field Source="Partner" Target="Partner"/>
+      <!--
+			<Field Source="Business Owner" Target="Business Owner"/>
+			<Field Source="Condition" Target="Condition"/>
+			<Field Source="Corporate or Divisional Strategy" Target="Corporate or Divisional Strategy"/>
+			<Field Source="Functional Area" Target="Functional Area"/>
+			<Field Source="Go Live Date" Target="Go Live Date"/>
+			<Field Source="HCA Customer" Target="HCA Customer"/>
+			<Field Source="Initiative" Target="Initiative"/>		
+			<Field Source="Line of Business" Target="Line of Business"/>
+      			<Field Source="Medicare ChargeBack Allowable" Target="Medicare ChargeBack Allowable"/>			
+			<Field Source="Overall Status Commentary" Target="Overall Status Commentary"/>
+			<Field Source="Parallon Client" Target="Parallon Client"/>
+			<Field Source="Parallon Functional Area" Target="Parallon Functional Area"/>
+			<Field Source="Parallon Line of Business" Target="Parallon Line of Business"/>
+			<Field Source="Parallon Product Line" Target="Parallon Product Line"/>
+			<Field Source="Parallon Project Category" Target="Parallon Project Category"/>
+			<Field Source="Parent Program" Target="Parent Program"/>
+			<Field Source="Project Active Status" Target="Project Active Status"/> 		
+			<Field Source="Project Departments" Target="Project Departments"/>	
+      			<Field Source="Project Phase" Target="Project Phase"/>		
+			<Field Source="Project Sponsor" Target="Project Sponsor" IsResourceColumn="false"/>
+			-->
+    </CustomFields>
+
+  </Project>
+  <Task>
+    <Fields>
+
+    </Fields>
+    <CustomFields>
+
+    </CustomFields>
+  </Task>
+  <Assignment>
+    <Fields>
+
+    </Fields>
+
+  </Assignment>
+
+  <ProjectResource>
+    <Fields>
+
+    </Fields>
+  </ProjectResource>
+</Mapping>

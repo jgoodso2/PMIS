@@ -1,0 +1,5 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.dll.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\x64\Release\PMSImporter.dll

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\bin\Debug\TestPMSImport.dll
+C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\bin\Debug\TestPMSImport.pdb
+C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\TestPMSImport.dll
+C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\TestPMSImport.pdb

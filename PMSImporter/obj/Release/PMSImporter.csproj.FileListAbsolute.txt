@@ -1,0 +1,11 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Release\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\obj\Release\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\PMSImporter.dll.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.dll.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImporter\bin\Release\Microsoft.Sharepoint.Sandbox.dll

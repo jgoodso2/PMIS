@@ -1,0 +1,10 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\FieldMapping.xml
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\PMSImport.exe.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\PMSImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\PMSImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\bin\Debug\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\obj\x86\Debug\PMSImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMSImport\obj\x86\Debug\PMSImport.pdb

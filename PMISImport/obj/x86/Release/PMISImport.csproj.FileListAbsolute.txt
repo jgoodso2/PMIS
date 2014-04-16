@@ -1,0 +1,14 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\PMISImport.exe.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\PMISImport.Form1.resources
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\PMISImport.Properties.Resources.resources
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\PMISImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x86\Release\PMISImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\binRelease\PMISImport.exe.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\FieldMapping.xml
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\PMISImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\PMISImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\Release\PMSImporter.pdb

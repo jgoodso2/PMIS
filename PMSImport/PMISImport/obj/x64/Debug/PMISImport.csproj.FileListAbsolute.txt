@@ -1,0 +1,14 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\PMISImport.exe.config
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\FieldMapping.xml
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\PMISImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\PMISImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\PMSImporter.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\PMSImporter.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\PMISImport.Form1.resources
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\PMISImport.Properties.Resources.resources
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\PMISImport.exe
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\obj\x64\Debug\PMISImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\PMISImport\bin\x64\Debug\GenericFieldMapping.xml

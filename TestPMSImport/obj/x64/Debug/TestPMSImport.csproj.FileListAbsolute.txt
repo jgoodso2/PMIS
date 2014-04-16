@@ -1,0 +1,5 @@
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\TestPMSImport\bin\x64\Debug\TestPMSImport.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\TestPMSImport\bin\x64\Debug\TestPMSImport.pdb
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\TestPMSImport\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\TestPMSImport\obj\x64\Debug\TestPMSImport.dll
+C:\Users\jgoodson\Desktop\sandbox\Parallon\1119\PMSImport\PMSImport\TestPMSImport\obj\x64\Debug\TestPMSImport.pdb
