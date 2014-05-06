@@ -60,3 +60,6 @@ C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMISImpor
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMISImport\obj\x86\Debug\PMISImport.Form1.resources
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMISImport\obj\x86\Debug\PMISImport.Properties.Resources.resources
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PMSImport\PMISImport\obj\x86\Debug\PMISImport.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\PMISImport.exe.config
+C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\obj\x86\Debug\PMISImport.exe
+C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\obj\x86\Debug\PMISImport.pdb
