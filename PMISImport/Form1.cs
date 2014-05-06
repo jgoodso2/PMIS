@@ -18,7 +18,7 @@ namespace PMISImport
         {
             InitializeComponent();
             btnImport.Enabled = false;
-            //txtMapping.Text = new FileInfo(AppDomain.CurrentDomain.BaseDirectory + "/FieldMapping.xml").FullName;
+            txtMapping.Text = new FileInfo(AppDomain.CurrentDomain.BaseDirectory + "/FieldMapping.xml").FullName;
             //this.BackColor =  Color.FromArgb(10,57,100);
             this.BackColor = Color.FromArgb(69, 81, 171);
             this.pictureBox1.BackColor = Color.FromArgb(69, 81, 171);  
@@ -29,11 +29,11 @@ namespace PMISImport
             this.btnExit.BackColor = Color.White;
             this.btnImport.BackColor = Color.White;
             this.btnOpenFile.BackColor = Color.White;
-            //this.button1.BackColor = Color.White;
+            this.button1.BackColor = Color.White;
             this.btnExit.ForeColor = Color.Black;
             this.btnImport.ForeColor = Color.Black; 
             this.btnOpenFile.ForeColor = Color.Black;
-            //this.button1.ForeColor = Color.Black;
+            this.button1.ForeColor = Color.Black;
         }
 
         private void btnOpenFile_Click(object sender, EventArgs e)
@@ -64,6 +64,7 @@ namespace PMISImport
 
 
             return (!string.IsNullOrEmpty(txtFileName.Text)
+                && !string.IsNullOrEmpty(txtMapping.Text)
                  && !string.IsNullOrEmpty(txtProjectServer.Text)
                  && Uri.TryCreate(txtProjectServer.Text, System.UriKind.Absolute, out uri));
             
@@ -81,7 +82,7 @@ namespace PMISImport
             bgw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(bgw_RunWorkerCompleted);
             bgw.WorkerReportsProgress = true;
             Repository.SetProjectServerUrl(txtProjectServer.Text);
-            DataSetBuilder.SetMappingUrl("FieldMapping.xml");
+            DataSetBuilder.SetMappingUrl(txtMapping.Text);
             bgw.RunWorkerAsync();
         }
 
@@ -197,7 +198,7 @@ namespace PMISImport
                 try
                 {
 
-                    //txtMapping.Text = file;
+                    txtMapping.Text = file;
                 }
                 catch (IOException)
                 {

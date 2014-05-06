@@ -3,3 +3,13 @@ C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\bin\Debug\TestPM
 C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\TestPMSImport.dll
 C:\Users\Administrator\Documents\GitHub\PMSImport\TestPMSImport\obj\Debug\TestPMSImport.pdb
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\TestPMSImport.dll
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\TestPMSImport.pdb
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\PMSImporter.dll
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\ProjectServerServices.dll
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\ProjectServerServices.pdb
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\bin\Debug\ProjectServerServices.xml
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\obj\Debug\TestPMSImport.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\obj\Debug\TestPMSImport.dll
+C:\Users\Administrator\Documents\GitHub\PMIS\TestPMSImport\obj\Debug\TestPMSImport.pdb

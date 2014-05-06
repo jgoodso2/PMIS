@@ -49,12 +49,15 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label8 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtMapping = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnOpenFile
             // 
-            this.btnOpenFile.Location = new System.Drawing.Point(507, 118);
+            this.btnOpenFile.Location = new System.Drawing.Point(505, 153);
             this.btnOpenFile.Name = "btnOpenFile";
             this.btnOpenFile.Size = new System.Drawing.Size(106, 23);
             this.btnOpenFile.TabIndex = 0;
@@ -64,7 +67,7 @@
             // 
             // txtFileName
             // 
-            this.txtFileName.Location = new System.Drawing.Point(129, 118);
+            this.txtFileName.Location = new System.Drawing.Point(129, 151);
             this.txtFileName.Name = "txtFileName";
             this.txtFileName.ReadOnly = true;
             this.txtFileName.Size = new System.Drawing.Size(362, 21);
@@ -72,7 +75,7 @@
             // 
             // btnImport
             // 
-            this.btnImport.Location = new System.Drawing.Point(162, 163);
+            this.btnImport.Location = new System.Drawing.Point(162, 178);
             this.btnImport.Name = "btnImport";
             this.btnImport.Size = new System.Drawing.Size(168, 23);
             this.btnImport.TabIndex = 2;
@@ -82,7 +85,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(370, 163);
+            this.btnExit.Location = new System.Drawing.Point(370, 178);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(168, 23);
             this.btnExit.TabIndex = 3;
@@ -118,7 +121,7 @@
             // 
             // label3
             // 
-            this.label3.Location = new System.Drawing.Point(1, 212);
+            this.label3.Location = new System.Drawing.Point(1, 205);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(631, 23);
             this.label3.TabIndex = 7;
@@ -147,9 +150,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(9, 121);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 13);
+            this.label5.Size = new System.Drawing.Size(77, 13);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Input File";
+            this.label5.Text = "Mapping File";
             // 
             // label7
             // 
@@ -209,6 +212,33 @@
             this.panel1.Size = new System.Drawing.Size(984, 10);
             this.panel1.TabIndex = 19;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(9, 159);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(60, 13);
+            this.label6.TabIndex = 22;
+            this.label6.Text = "Input File";
+            // 
+            // txtMapping
+            // 
+            this.txtMapping.Location = new System.Drawing.Point(129, 121);
+            this.txtMapping.Name = "txtMapping";
+            this.txtMapping.ReadOnly = true;
+            this.txtMapping.Size = new System.Drawing.Size(362, 21);
+            this.txtMapping.TabIndex = 21;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(507, 121);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(106, 23);
+            this.button1.TabIndex = 20;
+            this.button1.Text = "Browse";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
@@ -216,6 +246,9 @@
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(974, 377);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtMapping);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label8);
@@ -225,7 +258,6 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtError);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -233,6 +265,7 @@
             this.Controls.Add(this.btnImport);
             this.Controls.Add(this.txtFileName);
             this.Controls.Add(this.btnOpenFile);
+            this.Controls.Add(this.label3);
             this.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -266,6 +299,9 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txtMapping;
+        private System.Windows.Forms.Button button1;
     }
 }
 
