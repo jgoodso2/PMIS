@@ -51,7 +51,6 @@ C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\PMSImporter.p
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\Microsoft.Office.Project.Server.Library.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\ProjectServerServices.dll
-C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\ProjectServerServices.pdb
-C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\bin\Debug\ProjectServerServices.xml
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\obj\Debug\PMSImporter.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\obj\Debug\PMSImporter.pdb
+C:\Users\Administrator\Documents\GitHub\PMIS\PMSImporter\obj\Debug\PMSImporter.csprojResolveAssemblyReference.cache

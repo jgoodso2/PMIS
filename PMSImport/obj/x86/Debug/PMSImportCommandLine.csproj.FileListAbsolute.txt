@@ -36,7 +36,6 @@ C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\bin\Debug\PMSImport.pdb
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\bin\Debug\PMSImporter.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\bin\Debug\ProjectServerServices.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\bin\Debug\PMSImporter.pdb
-C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\bin\Debug\ProjectServerServices.xml
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\obj\x86\Debug\PMSImportCommandLine.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\obj\x86\Debug\PMSImport.exe
 C:\Users\Administrator\Documents\GitHub\PMIS\PMSImport\obj\x86\Debug\PMSImport.pdb

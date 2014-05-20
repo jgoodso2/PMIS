@@ -74,5 +74,3 @@ C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\PMISImport.pdb
 C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\PMSImporter.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\ProjectServerServices.dll
 C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\PMSImporter.pdb
-C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\ProjectServerServices.pdb
-C:\Users\Administrator\Documents\GitHub\PMIS\PMISImport\bin\Debug\ProjectServerServices.xml
